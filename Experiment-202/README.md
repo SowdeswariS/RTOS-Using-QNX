@@ -250,7 +250,7 @@ main, exiting
 
 # Output
 
-[output3](exp3.png)
+[output3](exp_3.png)
 
 # Result
 
