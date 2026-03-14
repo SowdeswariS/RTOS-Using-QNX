@@ -125,8 +125,7 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ---
 
 # Ouput
-
-[output2](<c:\Users\SEC\Pictures\Screenshots\Screenshot 2026-03-13 111743.png>)
+[output2](c:\Users\SEC\Pictures\Screenshots\Screenshot 2026-03-13 111743.png)
 
 # Result
 
