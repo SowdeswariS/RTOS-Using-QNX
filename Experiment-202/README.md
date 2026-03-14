@@ -250,7 +250,7 @@ main, exiting
 
 # Output
 
-[output3](exp_3.png)
+[output3](c:\Users\SEC\Documents\GitHub\RTOS-Using-QNX\Experiment-202\Screenshot 2026-03-13 112350.png.png)
 
 # Result
 
