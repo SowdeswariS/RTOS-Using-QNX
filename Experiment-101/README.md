@@ -27,7 +27,7 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 - Ethernet cable or Wi-Fi connection
 - Host PC running QNX Momentics IDE
 
----
+
 
 ## Software / Tools Required  
 
