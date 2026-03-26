@@ -249,8 +249,10 @@ MsgSend return status: 0
 
 # Output
 ## Server Side
+<img width="1004" height="314" alt="Screenshot 2026-03-26 085934" src="https://github.com/user-attachments/assets/40c450fe-1c94-4c7f-950b-cb75cdf0e7b7" />
 
 ## Client Side
+<img width="1034" height="309" alt="image" src="https://github.com/user-attachments/assets/4c71bc16-a985-4085-971c-051bce777225" />
 
 ---
 
