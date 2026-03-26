@@ -100,6 +100,7 @@ Interrupt received! , Count is 4
 ```
 
 *(The counter increases each time the interrupt occurs.)*
+<img width="879" height="453" alt="image" src="https://github.com/user-attachments/assets/59166e7d-2de2-42b2-b20e-54c0bde65058" />
 
 ---
 
